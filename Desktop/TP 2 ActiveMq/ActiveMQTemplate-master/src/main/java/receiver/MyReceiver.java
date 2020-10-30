@@ -4,6 +4,7 @@ import javax.jms.*;
 
 import javax.jms.Queue;
 import javax.jms.QueueConnectionFactory;
+import javax.sound.midi.Receiver;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.springframework.context.ApplicationContext;
